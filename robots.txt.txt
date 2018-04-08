@@ -1,2 +1,10 @@
 User-agent: *
 Disallow: /bitrix/
+Disallow: /ajax/
+Disallow: /backups/
+Disallow: /cgi-bin/
+Disallow: /filter_search/
+Disallow: /include/
+Disallow: /search/
+Disallow: /upload/
+Disallow: /webstat/
